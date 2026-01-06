@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Data and model artifacts
+data/
+models/
+
+# PyCharm
+.idea/
+*.iml
+
+
